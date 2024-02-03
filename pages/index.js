@@ -394,7 +394,7 @@ const HomepageLayout = () => (
             </Header>
             <p style={{ fontSize: '1.33em' }}>
               <Image avatar src='https://365psd.com/images/istock/previews/8717/87172655-female-doctor-icon-nurse-symbol-faceless-woman-doctor-with-a-stethoscope.jpg' />
-              <b>Dr Lim</b>, Surgeon at Pantai Hospital
+              <b>Dr Chaddha</b>, Surgeon at Hallet Hospital
             </p>
           </Grid.Column>
         </Grid.Row>

@@ -81,7 +81,7 @@ class EditDoctor extends Component {
                         <Form.Field>
                             <label>Full Name</label>
                             <Input
-                                placeholder = 'Eg. John Smith'                        
+                                placeholder = 'Eg. Ram Mohan'                        
                                 value= {this.state.name}
                                 onChange= {event => 
                                     this.setState({ name: event.target.value })}                           

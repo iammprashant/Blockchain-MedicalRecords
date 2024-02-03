@@ -88,7 +88,7 @@ class EditPatient extends Component {
                         <Form.Field>
                             <label>Full Name</label>
                             <Input
-                                placeholder = 'Eg. John Smith'                        
+                                placeholder = 'Eg. Ram Mohan'                        
                                 value= {this.state.name}
                                 onChange= {event => 
                                     this.setState({ name: event.target.value })}                           
@@ -153,7 +153,7 @@ class EditPatient extends Component {
                     <Form.Group widths='equal'>
                         <Form.TextArea
                                 label='House Address'
-                                placeholder = 'Eg. 1234, Jalan Seksyen 1/3, 31900 Kampar, Perak'
+                                placeholder = 'Eg. Nawabganj, Kanpur, Uttar Pradesh-208002'
                                 value= {this.state.houseaddr}
                                 onChange= {event => 
                                     this.setState({ houseaddr: event.target.value })}  
