@@ -23,4 +23,6 @@ npm run test
 cd ethereum
 node compile.js
 node deploy.js
+npm run test
+npm run start
 ```
